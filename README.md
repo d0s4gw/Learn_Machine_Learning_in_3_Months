@@ -4,12 +4,18 @@ This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://y
 
 # Month 1
 
-## Week 1 Linear Algebra
-https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-## Week 2 Calculus
-https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+## Week 1 Calculus
+3blue1brown - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+Textbook - Calculus Early Trancendentals - James Stewart
+## Week 2 Linear Algebra
+3blue1brown - https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+MIT lectures - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010
+Textbook - Introducing Linear Algebra and Differential Equations - John W. Dettman
 ## Week 3 Probability
+3blue1brown - YouTube series pending release - 
+https://www.patreon.com/posts/bayes-rule-11745599
+https://www.patreon.com/posts/thoughts-on-11745773
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
